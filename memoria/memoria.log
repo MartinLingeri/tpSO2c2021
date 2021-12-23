@@ -1,0 +1,390 @@
+[INFO] 14:39:13:769 tp0/(6259:6259): Hola! Soy un log
+[INFO] 14:40:31:198 tp0/(6322:6322): Hola! Soy un log
+[INFO] 14:44:12:175 tp0/(6481:6481): Hola! Soy un log
+[INFO] 14:51:29:091 tp0/(6620:6620): Hola! Soy un log
+[INFO] 14:51:29:099 tp0/(6620:6620): valor de config
+[INFO] 18:25:00:667 tp0/(7271:7271): Hola! Soy un log
+[INFO] 18:25:00:678 tp0/(7271:7271): valor de config
+[INFO] 18:26:16:220 tp0/(7358:7358): Hola! Soy un log
+[INFO] 18:26:16:227 tp0/(7358:7358): valor de config
+[INFO] 18:26:57:155 tp0/(7404:7404): Hola! Soy un log
+[INFO] 18:26:57:158 tp0/(7404:7404): valor de config
+[INFO] 18:27:19:064 tp0/(7459:7459): Hola! Soy un log
+[INFO] 18:27:19:065 tp0/(7459:7459): valor de config
+[INFO] 18:28:19:808 tp0/(7505:7505): Hola! Soy un log
+[INFO] 18:28:19:817 tp0/(7505:7505): valor de config
+[INFO] 18:50:19:418 tp0/(7922:7922): Hola! Soy un log
+[INFO] 18:50:19:425 tp0/(7922:7922): valor de config
+[INFO] 18:57:18:511 tp0/(8372:8372): Hola! Soy un log
+[INFO] 18:57:18:516 tp0/(8372:8372): valor de config
+[INFO] 18:58:36:534 tp0/(8401:8401): Hola! Soy un log
+[INFO] 18:58:36:537 tp0/(8401:8401): valor de config
+[INFO] 19:04:51:774 tp0/(8556:8556): Hola! Soy un log
+[INFO] 19:04:51:791 tp0/(8556:8556): valor de config
+[INFO] 19:32:44:629 tp0/(9333:9333): Hola! Soy un log
+[INFO] 19:32:44:631 tp0/(9333:9333): valor de config
+[INFO] 19:34:19:409 tp0/(9390:9390): Hola! Soy un log
+[INFO] 19:34:19:411 tp0/(9390:9390): valor de config
+[INFO] 19:39:51:614 tp0/(9541:9541): Hola! Soy un log
+[INFO] 19:39:51:626 tp0/(9541:9541): valor de config
+[INFO] 19:41:49:061 tp0/(9609:9609): Hola! Soy un log
+[INFO] 19:41:49:075 tp0/(9609:9609): valor de config
+[INFO] 19:48:39:684 tp0/(9771:9771): Hola! Soy un log
+[INFO] 19:48:39:687 tp0/(9771:9771): valor de config
+[INFO] 20:01:29:808 tp0/(10218:10218): Hola! Soy un log
+[INFO] 20:01:29:822 tp0/(10218:10218): valor de config
+[INFO] 20:07:40:651 tp0/(10351:10351): Hola! Soy un log
+[INFO] 20:07:40:666 tp0/(10351:10351): valor de config
+[INFO] 09:06:17:896 tp0/(14221:14221): Hola! Soy un log
+[INFO] 09:06:17:914 tp0/(14221:14221): valor de config
+[INFO] 10:37:25:239 tp0/(15598:15598): Hola! Soy un log
+[INFO] 10:37:25:265 tp0/(15598:15598): valor de config
+[INFO] 10:52:34:109 tp0/(16022:16022): Hola! Soy un log
+[INFO] 10:52:34:115 tp0/(16022:16022): valor de config
+[INFO] 10:55:30:990 tp0/(16092:16092): Hola! Soy un log
+[INFO] 10:55:31:004 tp0/(16092:16092): valor de config
+[INFO] 10:57:07:857 tp0/(16143:16143): Hola! Soy un log
+[INFO] 10:57:07:863 tp0/(16143:16143): valor de config
+[INFO] 11:59:06:083 tp0/(16959:16959): Hola! Soy un log
+[INFO] 11:59:06:086 tp0/(16959:16959): valor de config
+[INFO] 18:31:08:298 tp0/(4339:4339): Hola! Soy un log
+[INFO] 18:31:08:305 tp0/(4339:4339): valor de config
+[INFO] 17:16:12:483 MEMORIA/(11760:11760): Archivo de configuracion cargado correctamente
+[INFO] 17:21:56:140 MEMORIA/(12076:12076): Archivo de configuracion cargado correctamente
+[INFO] 17:22:51:637 MEMORIA/(12123:12123): Archivo de configuracion cargado correctamente
+[INFO] 17:23:48:046 MEMORIA/(12231:12231): Archivo de configuracion cargado correctamente
+[INFO] 17:25:00:705 MEMORIA/(12295:12295): Archivo de configuracion cargado correctamente
+[INFO] 17:26:29:674 MEMORIA/(12360:12360): Archivo de configuracion cargado correctamente
+[INFO] 17:28:31:807 MEMORIA/(12462:12462): Archivo de configuracion cargado correctamente
+[INFO] 17:31:18:186 MEMORIA/(12586:12586): Archivo de configuracion cargado correctamente
+[INFO] 17:32:12:552 MEMORIA/(12658:12658): Archivo de configuracion cargado correctamente
+[INFO] 17:33:00:616 MEMORIA/(12718:12718): Archivo de configuracion cargado correctamente
+[INFO] 17:37:05:696 MEMORIA/(12882:12882): Archivo de configuracion cargado correctamente
+[INFO] 17:39:02:825 MEMORIA/(12952:12952): Archivo de configuracion cargado correctamente
+[INFO] 17:40:00:302 MEMORIA/(13015:13015): Archivo de configuracion cargado correctamente
+[INFO] 17:44:23:398 MEMORIA/(13252:13252): Archivo de configuracion cargado correctamente
+[INFO] 17:47:09:236 MEMORIA/(13385:13385): Archivo de configuracion cargado correctamente
+[INFO] 17:50:57:248 MEMORIA/(13545:13545): Archivo de configuracion cargado correctamente
+[INFO] 17:54:51:690 MEMORIA/(13633:13633): Archivo de configuracion cargado correctamente
+[INFO] 17:57:41:975 MEMORIA/(13766:13766): Archivo de configuracion cargado correctamente
+[INFO] 17:58:55:412 MEMORIA/(13846:13846): Archivo de configuracion cargado correctamente
+[INFO] 17:59:46:607 MEMORIA/(13906:13906): Archivo de configuracion cargado correctamente
+[INFO] 18:00:57:176 MEMORIA/(13995:13995): Archivo de configuracion cargado correctamente
+[INFO] 18:02:22:868 MEMORIA/(14073:14073): Archivo de configuracion cargado correctamente
+[INFO] 18:02:28:183 MEMORIA/(14085:14085): Archivo de configuracion cargado correctamente
+[INFO] 18:02:32:878 MEMORIA/(14073:14073): Finalizando programa...
+[INFO] 18:02:38:186 MEMORIA/(14085:14085): Finalizando programa...
+[INFO] 18:05:15:379 MEMORIA/(14192:14192): Archivo de configuracion cargado correctamente
+[INFO] 18:05:25:399 MEMORIA/(14192:14192): Finalizando programa...
+[INFO] 18:06:02:311 MEMORIA/(14230:14230): Archivo de configuracion cargado correctamente
+[INFO] 18:06:12:315 MEMORIA/(14230:14230): Finalizando programa...
+[INFO] 18:06:53:849 MEMORIA/(14271:14271): Archivo de configuracion cargado correctamente
+[INFO] 18:07:03:881 MEMORIA/(14271:14271): Finalizando programa...
+[INFO] 18:13:44:860 MEMORIA/(14531:14531): Archivo de configuracion cargado correctamente
+[INFO] 18:13:54:863 MEMORIA/(14531:14531): Finalizando programa...
+[INFO] 18:15:56:986 MEMORIA/(14590:14590): Archivo de configuracion cargado correctamente
+[INFO] 18:16:06:994 MEMORIA/(14590:14590): Finalizando programa...
+[INFO] 18:17:01:666 MEMORIA/(14645:14645): Archivo de configuracion cargado correctamente
+[INFO] 18:17:25:781 MEMORIA/(14665:14665): Archivo de configuracion cargado correctamente
+[INFO] 18:17:58:639 MEMORIA/(14676:14676): Archivo de configuracion cargado correctamente
+[INFO] 18:18:08:640 MEMORIA/(14676:14676): Finalizando programa...
+[INFO] 18:19:31:830 MEMORIA/(14737:14737): Archivo de configuracion cargado correctamente
+[INFO] 18:19:41:832 MEMORIA/(14737:14737): Finalizando programa...
+[INFO] 18:22:54:163 MEMORIA/(14846:14846): Archivo de configuracion cargado correctamente
+[INFO] 18:23:04:164 MEMORIA/(14846:14846): Finalizando programa...
+[INFO] 18:28:58:642 MEMORIA/(8029:8029): Archivo de configuracion cargado correctamente
+[INFO] 18:29:08:643 MEMORIA/(8029:8029): Finalizando programa...
+[INFO] 18:44:11:578 MEMORIA/(8617:8617): Archivo de configuracion cargado correctamente
+[INFO] 18:44:21:580 MEMORIA/(8617:8617): Finalizando programa...
+[INFO] 18:45:02:674 MEMORIA/(8659:8659): Archivo de configuracion cargado correctamente
+[INFO] 18:45:12:677 MEMORIA/(8659:8659): Finalizando programa...
+[INFO] 18:46:08:244 MEMORIA/(8721:8721): Archivo de configuracion cargado correctamente
+[INFO] 18:46:18:253 MEMORIA/(8721:8721): Finalizando programa...
+[INFO] 18:48:31:618 MEMORIA/(8794:8794): Archivo de configuracion cargado correctamente
+[INFO] 18:48:41:622 MEMORIA/(8794:8794): Finalizando programa...
+[INFO] 19:53:03:042 MEMORIA/(10156:10156): Archivo de configuracion cargado correctamente
+[INFO] 19:53:13:049 MEMORIA/(10156:10156): Finalizando programa...
+[INFO] 20:08:29:889 MEMORIA/(10334:10334): Archivo de configuracion cargado correctamente
+[INFO] 20:08:39:902 MEMORIA/(10334:10334): Finalizando programa...
+[INFO] 21:19:49:755 MEMORIA/(11348:11348): Archivo de configuracion cargado correctamente
+[INFO] 21:19:59:776 MEMORIA/(11348:11348): Finalizando programa...
+[INFO] 23:08:41:252 MEMORIA/(12181:12181): Archivo de configuracion cargado correctamente
+[INFO] 23:08:51:263 MEMORIA/(12181:12181): Finalizando programa...
+[INFO] 23:13:30:512 MEMORIA/(12308:12308): Archivo de configuracion cargado correctamente
+[INFO] 23:13:40:521 MEMORIA/(12308:12308): Finalizando programa...
+[INFO] 14:54:47:919 MEMORIA/(15373:15373): Archivo de configuracion cargado correctamente
+[INFO] 14:55:08:027 MEMORIA/(15410:15410): Archivo de configuracion cargado correctamente
+[INFO] 15:03:56:702 MEMORIA/(15670:15670): Archivo de configuracion cargado correctamente
+[INFO] 15:08:15:221 MEMORIA/(15840:15840): Archivo de configuracion cargado correctamente
+[INFO] 15:08:32:643 MEMORIA/(15840:15840): Finalizando programa...
+[INFO] 15:09:16:129 MEMORIA/(15908:15908): Archivo de configuracion cargado correctamente
+[INFO] 15:11:18:937 MEMORIA/(15908:15908): Finalizando programa...
+[INFO] 15:11:21:913 MEMORIA/(16010:16010): Archivo de configuracion cargado correctamente
+[INFO] 15:14:17:460 MEMORIA/(16010:16010): Finalizando programa...
+[INFO] 15:14:37:971 MEMORIA/(16247:16247): Archivo de configuracion cargado correctamente
+[INFO] 15:16:29:141 MEMORIA/(16247:16247): Finalizando programa...
+[INFO] 15:16:32:945 MEMORIA/(16329:16329): Archivo de configuracion cargado correctamente
+[INFO] 15:18:03:499 MEMORIA/(16329:16329): Finalizando programa...
+[INFO] 15:18:26:429 MEMORIA/(16393:16393): Archivo de configuracion cargado correctamente
+[INFO] 15:18:44:043 MEMORIA/(16393:16393): Finalizando programa...
+[INFO] 15:20:22:652 MEMORIA/(16459:16459): Archivo de configuracion cargado correctamente
+[INFO] 15:20:51:054 MEMORIA/(16459:16459): Finalizando programa...
+[INFO] 15:23:45:043 MEMORIA/(16562:16562): Archivo de configuracion cargado correctamente
+[INFO] 15:23:47:535 MEMORIA/(16562:16562): Finalizando programa...
+[INFO] 15:23:53:318 MEMORIA/(16564:16564): Archivo de configuracion cargado correctamente
+[ERROR] 15:23:57:681 MEMORIA/(16564:16575): Algo anduvo mal en el server de memoria
+[INFO] 15:26:31:223 MEMORIA/(16564:16564): Finalizando programa...
+[INFO] 15:29:59:876 MEMORIA/(16692:16692): Archivo de configuracion cargado correctamente
+[ERROR] 15:30:04:974 MEMORIA/(16692:16705): Algo anduvo mal en el server de memoria
+[INFO] 15:30:19:368 MEMORIA/(16692:16692): Finalizando programa...
+[INFO] 17:12:38:411 MEMORIA/(7195:7195): Archivo de configuracion cargado correctamente
+[ERROR] 17:13:24:132 MEMORIA/(7195:7262): Algo anduvo mal en el server de memoria
+[INFO] 17:20:27:421 MEMORIA/(8059:8059): Archivo de configuracion cargado correctamente
+[ERROR] 17:20:30:893 MEMORIA/(7195:8075): Algo anduvo mal en el server de memoria
+[INFO] 17:20:54:728 MEMORIA/(8081:8081): Archivo de configuracion cargado correctamente
+[ERROR] 17:20:57:032 MEMORIA/(8081:8096): Algo anduvo mal en el server de memoria
+[ERROR] 17:22:04:294 MEMORIA/(8081:8153): Algo anduvo mal en el server de memoria
+[INFO] 17:39:13:994 MEMORIA/(9310:9310): Archivo de configuracion cargado correctamente
+[INFO] 19:31:06:268 MEMORIA/(7665:7665): Archivo de configuracion cargado correctamente
+[INFO] 19:31:57:930 MEMORIA/(7819:7819): Archivo de configuracion cargado correctamente
+[INFO] 19:33:18:859 MEMORIA/(7904:7904): Archivo de configuracion cargado correctamente
+[INFO] 19:33:43:086 MEMORIA/(7985:7985): Archivo de configuracion cargado correctamente
+[INFO] 19:34:03:301 MEMORIA/(8058:8058): Archivo de configuracion cargado correctamente
+[INFO] 19:34:13:187 MEMORIA/(8099:8099): Archivo de configuracion cargado correctamente
+[INFO] 19:34:56:818 MEMORIA/(8205:8205): Archivo de configuracion cargado correctamente
+[INFO] 19:35:06:782 MEMORIA/(8233:8233): Archivo de configuracion cargado correctamente
+[INFO] 19:35:20:140 MEMORIA/(8277:8277): Archivo de configuracion cargado correctamente
+[INFO] 19:36:10:222 MEMORIA/(8424:8424): Archivo de configuracion cargado correctamente
+[INFO] 19:36:19:763 MEMORIA/(8618:8618): Archivo de configuracion cargado correctamente
+[INFO] 19:37:50:186 MEMORIA/(8725:8725): Archivo de configuracion cargado correctamente
+[INFO] 14:23:22:775 MEMORIA/(6332:6332): Archivo de configuracion cargado correctamente
+[INFO] 18:06:29:658 MEMORIA/(8812:8812): Archivo de configuracion cargado correctamente
+[INFO] 18:09:20:055 MEMORIA/(9035:9035): Archivo de configuracion cargado correctamente
+[INFO] 18:11:53:151 MEMORIA/(9201:9201): Archivo de configuracion cargado correctamente
+[INFO] 18:15:42:364 MEMORIA/(9587:9587): Archivo de configuracion cargado correctamente
+[INFO] 18:17:12:079 MEMORIA/(9728:9728): Archivo de configuracion cargado correctamente
+[ERROR] 18:17:27:379 MEMORIA/(9728:9781): Algo anduvo mal en el server de memoria
+[INFO] 18:19:36:319 MEMORIA/(9890:9890): Archivo de configuracion cargado correctamente
+[ERROR] 18:19:41:316 MEMORIA/(9890:9911): Algo anduvo mal en el server de memoria
+[INFO] 18:20:19:411 MEMORIA/(9984:9984): Archivo de configuracion cargado correctamente
+[ERROR] 18:20:27:896 MEMORIA/(9984:10000): Algo anduvo mal en el server de memoria
+[INFO] 18:20:33:110 MEMORIA/(10019:10019): Archivo de configuracion cargado correctamente
+[ERROR] 18:20:39:776 MEMORIA/(10019:10034): Algo anduvo mal en el server de memoria
+[INFO] 18:23:08:670 MEMORIA/(10342:10342): Archivo de configuracion cargado correctamente
+[ERROR] 18:28:02:480 MEMORIA/(10342:10357): Algo anduvo mal en el server de memoria
+[INFO] 18:28:26:079 MEMORIA/(10780:10780): Archivo de configuracion cargado correctamente
+[ERROR] 18:31:04:440 MEMORIA/(10780:10807): Algo anduvo mal en el server de memoria
+[INFO] 18:31:29:133 MEMORIA/(11003:11003): Archivo de configuracion cargado correctamente
+[ERROR] 18:32:25:219 MEMORIA/(11003:11022): Algo anduvo mal en el server de memoria
+[INFO] 18:51:11:499 MEMORIA/(12050:12050): Archivo de configuracion cargado correctamente
+[ERROR] 18:51:18:646 MEMORIA/(12050:12071): Algo anduvo mal en el server de memoria
+[INFO] 18:53:01:180 MEMORIA/(12154:12154): Archivo de configuracion cargado correctamente
+[INFO] 18:56:03:430 MEMORIA/(12346:12346): Archivo de configuracion cargado correctamente
+[INFO] 18:59:53:038 MEMORIA/(12586:12586): Archivo de configuracion cargado correctamente
+[ERROR] 19:00:05:316 MEMORIA/(12586:12606): Algo anduvo mal en el server de memoria
+[INFO] 19:01:53:794 MEMORIA/(12832:12832): Archivo de configuracion cargado correctamente
+[INFO] 19:02:08:015 MEMORIA/(12862:12862): Archivo de configuracion cargado correctamente
+[ERROR] 19:02:15:054 MEMORIA/(12862:12877): Algo anduvo mal en el server de memoria
+[INFO] 19:02:18:781 MEMORIA/(12896:12896): Archivo de configuracion cargado correctamente
+[ERROR] 19:02:26:117 MEMORIA/(12896:12911): Algo anduvo mal en el server de memoria
+[INFO] 19:03:00:869 MEMORIA/(13027:13027): Archivo de configuracion cargado correctamente
+[INFO] 19:08:22:562 MEMORIA/(13570:13570): Archivo de configuracion cargado correctamente
+[ERROR] 19:08:28:736 MEMORIA/(13570:13585): Algo anduvo mal en el server de memoria
+[INFO] 19:11:22:006 MEMORIA/(13678:13678): Archivo de configuracion cargado correctamente
+[ERROR] 19:11:26:881 MEMORIA/(13678:13694): Algo anduvo mal en el server de memoria
+[INFO] 19:15:04:870 MEMORIA/(13883:13883): Archivo de configuracion cargado correctamente
+[INFO] 19:18:25:401 MEMORIA/(14224:14224): Archivo de configuracion cargado correctamente
+[INFO] 19:20:08:349 MEMORIA/(14331:14331): Archivo de configuracion cargado correctamente
+[INFO] 19:22:07:635 MEMORIA/(14454:14454): Archivo de configuracion cargado correctamente
+[INFO] 19:22:55:258 MEMORIA/(14558:14558): Archivo de configuracion cargado correctamente
+[INFO] 19:23:16:067 MEMORIA/(14595:14595): Archivo de configuracion cargado correctamente
+[ERROR] 19:23:23:069 MEMORIA/(14595:14610): Algo anduvo mal en el server de memoria
+[INFO] 19:24:03:671 MEMORIA/(14726:14726): Archivo de configuracion cargado correctamente
+[INFO] 19:25:25:601 MEMORIA/(14822:14822): Archivo de configuracion cargado correctamente
+[INFO] 19:25:53:370 MEMORIA/(15022:15022): Archivo de configuracion cargado correctamente
+[INFO] 19:26:05:861 MEMORIA/(15068:15068): Archivo de configuracion cargado correctamente
+[INFO] 19:26:36:641 MEMORIA/(15190:15190): Archivo de configuracion cargado correctamente
+[INFO] 18:36:33:041 MEMORIA/(18536:18536): Archivo de configuracion cargado correctamente
+[ERROR] 18:36:37:078 MEMORIA/(18536:18554): Algo anduvo mal en el server de memoria
+[INFO] 18:38:35:339 MEMORIA/(18643:18643): Archivo de configuracion cargado correctamente
+[ERROR] 18:38:38:360 MEMORIA/(18643:18668): Algo anduvo mal en el server de memoria
+[INFO] 18:40:14:993 MEMORIA/(18918:18918): Archivo de configuracion cargado correctamente
+[ERROR] 18:40:17:671 MEMORIA/(18918:18944): Algo anduvo mal en el server de memoria
+[INFO] 18:42:00:425 MEMORIA/(19073:19073): Archivo de configuracion cargado correctamente
+[ERROR] 18:42:02:014 MEMORIA/(19073:19098): Algo anduvo mal en el server de memoria
+[INFO] 18:43:55:936 MEMORIA/(19176:19176): Archivo de configuracion cargado correctamente
+[ERROR] 18:43:58:067 MEMORIA/(19176:19193): Algo anduvo mal en el server de memoria
+[INFO] 18:45:14:887 MEMORIA/(19328:19328): Archivo de configuracion cargado correctamente
+[ERROR] 18:45:17:347 MEMORIA/(19328:19461): Algo anduvo mal en el server de memoria
+[INFO] 18:48:33:838 MEMORIA/(19733:19733): Archivo de configuracion cargado correctamente
+[INFO] 18:50:36:464 MEMORIA/(19863:19863): Archivo de configuracion cargado correctamente
+[INFO] 19:04:24:849 MEMORIA/(20906:20906): Archivo de configuracion cargado correctamente
+[INFO] 19:06:01:670 MEMORIA/(21174:21174): Archivo de configuracion cargado correctamente
+[INFO] 19:07:47:266 MEMORIA/(21305:21305): Archivo de configuracion cargado correctamente
+[INFO] 19:09:26:243 MEMORIA/(21428:21428): Archivo de configuracion cargado correctamente
+[INFO] 19:11:00:649 MEMORIA/(21688:21688): Archivo de configuracion cargado correctamente
+[INFO] 19:12:32:402 MEMORIA/(21805:21805): Archivo de configuracion cargado correctamente
+[INFO] 19:14:53:152 MEMORIA/(21944:21944): Archivo de configuracion cargado correctamente
+[INFO] 19:17:03:597 MEMORIA/(22221:22221): Archivo de configuracion cargado correctamente
+[INFO] 19:18:42:622 MEMORIA/(22330:22330): Archivo de configuracion cargado correctamente
+[INFO] 19:23:28:115 MEMORIA/(22667:22667): Archivo de configuracion cargado correctamente
+[INFO] 19:24:58:471 MEMORIA/(22750:22750): Archivo de configuracion cargado correctamente
+[INFO] 19:27:09:754 MEMORIA/(22887:22887): Archivo de configuracion cargado correctamente
+[INFO] 19:27:20:342 MEMORIA/(22907:22907): Archivo de configuracion cargado correctamente
+[INFO] 19:28:05:987 MEMORIA/(23045:23045): Archivo de configuracion cargado correctamente
+[INFO] 19:29:18:290 MEMORIA/(23151:23151): Archivo de configuracion cargado correctamente
+[INFO] 19:29:26:889 MEMORIA/(23177:23177): Archivo de configuracion cargado correctamente
+[INFO] 19:30:00:130 MEMORIA/(23325:23325): Archivo de configuracion cargado correctamente
+[INFO] 19:34:31:412 MEMORIA/(23693:23693): Archivo de configuracion cargado correctamente
+[INFO] 19:34:39:858 MEMORIA/(23716:23716): Archivo de configuracion cargado correctamente
+[INFO] 19:35:17:876 MEMORIA/(23837:23837): Archivo de configuracion cargado correctamente
+[INFO] 19:37:05:964 MEMORIA/(23956:23956): Archivo de configuracion cargado correctamente
+[INFO] 19:38:48:651 MEMORIA/(24042:24042): Archivo de configuracion cargado correctamente
+[INFO] 19:43:51:391 MEMORIA/(24459:24459): Archivo de configuracion cargado correctamente
+[INFO] 19:47:01:904 MEMORIA/(24607:24607): Archivo de configuracion cargado correctamente
+[INFO] 19:48:18:008 MEMORIA/(24690:24690): Archivo de configuracion cargado correctamente
+[INFO] 19:49:31:997 MEMORIA/(24924:24924): Archivo de configuracion cargado correctamente
+[INFO] 19:51:17:803 MEMORIA/(25064:25064): Archivo de configuracion cargado correctamente
+[INFO] 19:52:28:253 MEMORIA/(25179:25179): Archivo de configuracion cargado correctamente
+[INFO] 19:56:14:449 MEMORIA/(25472:25472): Archivo de configuracion cargado correctamente
+[INFO] 19:59:16:073 MEMORIA/(25613:25613): Archivo de configuracion cargado correctamente
+[INFO] 20:07:32:131 MEMORIA/(26191:26191): Archivo de configuracion cargado correctamente
+[INFO] 20:07:56:727 MEMORIA/(26251:26251): Archivo de configuracion cargado correctamente
+[INFO] 20:09:26:131 MEMORIA/(26371:26371): Archivo de configuracion cargado correctamente
+[INFO] 20:13:03:018 MEMORIA/(26535:26535): Archivo de configuracion cargado correctamente
+[INFO] 20:20:59:457 MEMORIA/(26804:26804): Archivo de configuracion cargado correctamente
+[INFO] 20:24:09:354 MEMORIA/(27111:27111): Archivo de configuracion cargado correctamente
+[INFO] 20:25:09:939 MEMORIA/(27203:27203): Archivo de configuracion cargado correctamente
+[INFO] 20:26:50:366 MEMORIA/(27327:27327): Archivo de configuracion cargado correctamente
+[INFO] 20:28:33:487 MEMORIA/(27573:27573): Archivo de configuracion cargado correctamente
+[INFO] 20:30:34:893 MEMORIA/(27701:27701): Archivo de configuracion cargado correctamente
+[INFO] 20:32:04:237 MEMORIA/(27849:27849): Archivo de configuracion cargado correctamente
+[INFO] 20:34:40:178 MEMORIA/(28109:28109): Archivo de configuracion cargado correctamente
+[INFO] 20:35:35:926 MEMORIA/(28212:28212): Archivo de configuracion cargado correctamente
+[INFO] 20:35:43:893 MEMORIA/(28233:28233): Archivo de configuracion cargado correctamente
+[INFO] 20:37:23:736 MEMORIA/(28337:28337): Archivo de configuracion cargado correctamente
+[INFO] 20:39:11:952 MEMORIA/(28437:28437): Archivo de configuracion cargado correctamente
+[INFO] 20:39:33:463 MEMORIA/(28492:28492): Archivo de configuracion cargado correctamente
+[INFO] 20:39:41:523 MEMORIA/(28518:28518): Archivo de configuracion cargado correctamente
+[INFO] 20:40:31:949 MEMORIA/(28639:28639): Archivo de configuracion cargado correctamente
+[INFO] 20:41:10:392 MEMORIA/(28701:28701): Archivo de configuracion cargado correctamente
+[INFO] 20:41:53:246 MEMORIA/(28815:28815): Archivo de configuracion cargado correctamente
+[INFO] 13:01:22:514 MEMORIA/(6583:6583): Archivo de configuracion cargado correctamente
+[INFO] 13:03:47:557 MEMORIA/(6680:6680): Archivo de configuracion cargado correctamente
+[INFO] 13:06:28:154 MEMORIA/(6874:6874): Archivo de configuracion cargado correctamente
+[INFO] 13:06:59:207 MEMORIA/(6953:6953): Archivo de configuracion cargado correctamente
+[INFO] 13:07:08:002 MEMORIA/(6975:6975): Archivo de configuracion cargado correctamente
+[INFO] 13:08:25:072 MEMORIA/(7100:7100): Archivo de configuracion cargado correctamente
+[INFO] 13:09:10:019 MEMORIA/(7177:7177): Archivo de configuracion cargado correctamente
+[INFO] 13:12:35:867 MEMORIA/(7338:7338): Archivo de configuracion cargado correctamente
+[INFO] 13:13:33:667 MEMORIA/(7421:7421): Archivo de configuracion cargado correctamente
+[INFO] 13:16:24:398 MEMORIA/(7782:7782): Archivo de configuracion cargado correctamente
+[INFO] 13:16:48:742 MEMORIA/(7852:7852): Archivo de configuracion cargado correctamente
+[INFO] 13:16:52:558 MEMORIA/(7865:7865): Archivo de configuracion cargado correctamente
+[INFO] 13:16:59:753 MEMORIA/(7887:7887): Archivo de configuracion cargado correctamente
+[INFO] 13:18:43:997 MEMORIA/(8008:8008): Archivo de configuracion cargado correctamente
+[INFO] 13:19:25:753 MEMORIA/(8101:8101): Archivo de configuracion cargado correctamente
+[INFO] 13:19:57:602 MEMORIA/(8223:8223): Archivo de configuracion cargado correctamente
+[INFO] 13:31:19:330 MEMORIA/(8530:8530): Archivo de configuracion cargado correctamente
+[INFO] 13:34:37:073 MEMORIA/(8655:8655): Archivo de configuracion cargado correctamente
+[INFO] 13:35:04:198 MEMORIA/(8723:8723): Archivo de configuracion cargado correctamente
+[INFO] 13:36:55:320 MEMORIA/(8882:8882): Archivo de configuracion cargado correctamente
+[ERROR] 13:36:56:450 MEMORIA/(8882:8898): Algo anduvo mal en el server de memoria
+[INFO] 13:43:12:578 MEMORIA/(9291:9291): Archivo de configuracion cargado correctamente
+[INFO] 13:44:00:622 MEMORIA/(9384:9384): Archivo de configuracion cargado correctamente
+[INFO] 13:46:00:758 MEMORIA/(9531:9531): Archivo de configuracion cargado correctamente
+[ERROR] 13:46:02:617 MEMORIA/(9531:9547): Algo anduvo mal en el server de memoria
+[INFO] 13:46:33:392 MEMORIA/(9601:9601): Archivo de configuracion cargado correctamente
+[INFO] 20:16:46:034 MEMORIA/(16955:16955): Archivo de configuracion cargado correctamente
+[INFO] 20:19:16:145 MEMORIA/(17071:17071): Archivo de configuracion cargado correctamente
+[INFO] 20:21:05:442 MEMORIA/(17133:17133): Archivo de configuracion cargado correctamente
+[INFO] 20:21:58:498 MEMORIA/(17232:17232): Archivo de configuracion cargado correctamente
+[INFO] 20:23:50:515 MEMORIA/(17318:17318): Archivo de configuracion cargado correctamente
+[INFO] 20:24:02:684 MEMORIA/(17349:17349): Archivo de configuracion cargado correctamente
+[INFO] 20:24:09:950 MEMORIA/(17372:17372): Archivo de configuracion cargado correctamente
+[INFO] 20:25:08:163 MEMORIA/(17504:17504): Archivo de configuracion cargado correctamente
+[INFO] 20:27:51:631 MEMORIA/(17628:17628): Archivo de configuracion cargado correctamente
+[INFO] 20:28:54:539 MEMORIA/(17715:17715): Archivo de configuracion cargado correctamente
+[INFO] 20:29:27:508 MEMORIA/(17774:17774): Archivo de configuracion cargado correctamente
+[INFO] 20:31:27:138 MEMORIA/(17870:17870): Archivo de configuracion cargado correctamente
+[INFO] 20:33:09:167 MEMORIA/(17949:17949): Archivo de configuracion cargado correctamente
+[INFO] 20:34:12:144 MEMORIA/(18028:18028): Archivo de configuracion cargado correctamente
+[INFO] 20:36:32:927 MEMORIA/(18126:18126): Archivo de configuracion cargado correctamente
+[INFO] 20:39:01:054 MEMORIA/(18223:18223): Archivo de configuracion cargado correctamente
+[INFO] 20:40:28:741 MEMORIA/(18290:18290): Archivo de configuracion cargado correctamente
+[INFO] 20:46:00:775 MEMORIA/(18466:18466): Archivo de configuracion cargado correctamente
+[INFO] 20:47:54:556 MEMORIA/(18560:18560): Archivo de configuracion cargado correctamente
+[INFO] 20:50:47:725 MEMORIA/(18675:18675): Archivo de configuracion cargado correctamente
+[INFO] 20:52:21:471 MEMORIA/(18748:18748): Archivo de configuracion cargado correctamente
+[INFO] 20:55:16:779 MEMORIA/(18910:18910): Archivo de configuracion cargado correctamente
+[INFO] 20:55:54:394 MEMORIA/(18975:18975): Archivo de configuracion cargado correctamente
+[INFO] 20:56:07:435 MEMORIA/(19023:19023): Archivo de configuracion cargado correctamente
+[INFO] 20:56:17:097 MEMORIA/(19049:19049): Archivo de configuracion cargado correctamente
+[INFO] 20:56:58:800 MEMORIA/(19180:19180): Archivo de configuracion cargado correctamente
+[INFO] 21:01:21:619 MEMORIA/(19331:19331): Archivo de configuracion cargado correctamente
+[INFO] 21:02:18:805 MEMORIA/(19402:19402): Archivo de configuracion cargado correctamente
+[INFO] 21:02:33:768 MEMORIA/(19463:19463): Archivo de configuracion cargado correctamente
+[INFO] 21:03:21:043 MEMORIA/(19537:19537): Archivo de configuracion cargado correctamente
+[INFO] 21:03:31:503 MEMORIA/(19584:19584): Archivo de configuracion cargado correctamente
+[INFO] 21:04:10:009 MEMORIA/(19703:19703): Archivo de configuracion cargado correctamente
+[INFO] 21:04:27:509 MEMORIA/(19744:19744): Archivo de configuracion cargado correctamente
+[INFO] 21:09:38:545 MEMORIA/(19931:19931): Archivo de configuracion cargado correctamente
+[INFO] 21:12:16:875 MEMORIA/(20074:20074): Archivo de configuracion cargado correctamente
+[INFO] 21:14:08:835 MEMORIA/(20181:20181): Archivo de configuracion cargado correctamente
+[INFO] 21:14:47:492 MEMORIA/(20239:20239): Archivo de configuracion cargado correctamente
+[INFO] 21:15:36:282 MEMORIA/(20363:20363): Archivo de configuracion cargado correctamente
+[INFO] 21:17:38:365 MEMORIA/(20458:20458): Archivo de configuracion cargado correctamente
+[INFO] 21:18:03:481 MEMORIA/(20516:20516): Archivo de configuracion cargado correctamente
+[INFO] 21:19:02:415 MEMORIA/(20638:20638): Archivo de configuracion cargado correctamente
+[INFO] 21:20:20:624 MEMORIA/(20730:20730): Archivo de configuracion cargado correctamente
+[INFO] 21:22:12:451 MEMORIA/(20837:20837): Archivo de configuracion cargado correctamente
+[INFO] 21:24:20:539 MEMORIA/(20938:20938): Archivo de configuracion cargado correctamente
+[INFO] 21:29:56:585 MEMORIA/(21141:21141): Archivo de configuracion cargado correctamente
+[INFO] 21:31:00:152 MEMORIA/(21231:21231): Archivo de configuracion cargado correctamente
+[INFO] 21:32:19:306 MEMORIA/(21309:21309): Archivo de configuracion cargado correctamente
+[INFO] 21:34:22:417 MEMORIA/(21392:21392): Archivo de configuracion cargado correctamente
+[INFO] 21:37:35:782 MEMORIA/(21497:21497): Archivo de configuracion cargado correctamente
+[ERROR] 21:37:38:884 MEMORIA/(21497:21513): Algo anduvo mal en el server de memoria
+[INFO] 21:40:24:625 MEMORIA/(21650:21650): Archivo de configuracion cargado correctamente
+[INFO] 21:44:34:825 MEMORIA/(21882:21882): Archivo de configuracion cargado correctamente
+[INFO] 21:45:34:608 MEMORIA/(21946:21946): Archivo de configuracion cargado correctamente
+[INFO] 21:46:18:741 MEMORIA/(22067:22067): Archivo de configuracion cargado correctamente
+[INFO] 21:47:29:839 MEMORIA/(22163:22163): Archivo de configuracion cargado correctamente
+[INFO] 21:48:55:881 MEMORIA/(22257:22257): Archivo de configuracion cargado correctamente
+[INFO] 21:50:29:103 MEMORIA/(22329:22329): Archivo de configuracion cargado correctamente
+[INFO] 21:51:11:673 MEMORIA/(22402:22402): Archivo de configuracion cargado correctamente
+[INFO] 21:52:07:823 MEMORIA/(22525:22525): Archivo de configuracion cargado correctamente
+[INFO] 21:56:40:814 MEMORIA/(22656:22656): Archivo de configuracion cargado correctamente
+[INFO] 21:57:44:328 MEMORIA/(22739:22739): Archivo de configuracion cargado correctamente
+[INFO] 22:01:12:321 MEMORIA/(22850:22850): Archivo de configuracion cargado correctamente
+[INFO] 22:02:33:877 MEMORIA/(22959:22959): Archivo de configuracion cargado correctamente
+[INFO] 22:04:30:997 MEMORIA/(23038:23038): Archivo de configuracion cargado correctamente
+[INFO] 22:05:00:053 MEMORIA/(23104:23104): Archivo de configuracion cargado correctamente
+[INFO] 22:05:37:037 MEMORIA/(23225:23225): Archivo de configuracion cargado correctamente
+[INFO] 22:57:43:284 MEMORIA/(24149:24149): Archivo de configuracion cargado correctamente
+[INFO] 23:00:26:666 MEMORIA/(24314:24314): Archivo de configuracion cargado correctamente
+[INFO] 23:00:59:245 MEMORIA/(24371:24371): Archivo de configuracion cargado correctamente
+[INFO] 23:01:08:661 MEMORIA/(24398:24398): Archivo de configuracion cargado correctamente
+[INFO] 23:02:24:447 MEMORIA/(24527:24527): Archivo de configuracion cargado correctamente
+[INFO] 23:04:17:062 MEMORIA/(24625:24625): Archivo de configuracion cargado correctamente
+[INFO] 23:09:26:886 MEMORIA/(24743:24743): Archivo de configuracion cargado correctamente
+[INFO] 23:13:08:171 MEMORIA/(24878:24878): Archivo de configuracion cargado correctamente
+[INFO] 23:18:23:654 MEMORIA/(25015:25015): Archivo de configuracion cargado correctamente
+[INFO] 23:57:04:457 MEMORIA/(26074:26074): Archivo de configuracion cargado correctamente
+[INFO] 23:58:07:960 MEMORIA/(26151:26151): Archivo de configuracion cargado correctamente
+[INFO] 00:03:57:276 MEMORIA/(26281:26281): Archivo de configuracion cargado correctamente
+[INFO] 00:08:45:379 MEMORIA/(26532:26532): Archivo de configuracion cargado correctamente
+[INFO] 00:09:58:792 MEMORIA/(26604:26604): Archivo de configuracion cargado correctamente
+[INFO] 00:10:07:752 MEMORIA/(26624:26624): Archivo de configuracion cargado correctamente
+[INFO] 00:10:26:978 MEMORIA/(26653:26653): Archivo de configuracion cargado correctamente
+[INFO] 00:11:41:792 MEMORIA/(26783:26783): Archivo de configuracion cargado correctamente
+[INFO] 10:47:25:931 MEMORIA/(4941:4941): Archivo de configuracion cargado correctamente
+[INFO] 10:48:16:768 MEMORIA/(5015:5015): Archivo de configuracion cargado correctamente
+[INFO] 10:50:37:976 MEMORIA/(5149:5149): Archivo de configuracion cargado correctamente
+[INFO] 10:56:35:904 MEMORIA/(5518:5518): Archivo de configuracion cargado correctamente
+[INFO] 10:57:32:666 MEMORIA/(5591:5591): Archivo de configuracion cargado correctamente
+[INFO] 10:59:50:766 MEMORIA/(5952:5952): Archivo de configuracion cargado correctamente
+[INFO] 11:03:17:586 MEMORIA/(6162:6162): Archivo de configuracion cargado correctamente
+[INFO] 11:05:18:020 MEMORIA/(6416:6416): Archivo de configuracion cargado correctamente
+[INFO] 12:00:16:078 MEMORIA/(9874:9874): Archivo de configuracion cargado correctamente
+[INFO] 12:08:32:982 MEMORIA/(5476:5476): Archivo de configuracion cargado correctamente

@@ -1,0 +1,90 @@
+[INFO] 17:40:35:425 Servidor/(18885:18885): Servidor listo para recibir al cliente
+[TRACE] 17:41:40:584 Servidor/(18928:18928): Listo para escuchar a mi cliente
+[INFO] 17:41:40:584 Servidor/(18928:18928): Servidor listo para recibir al cliente
+[INFO] 17:45:44:705 Servidor/(18928:18928): Se conecto un cliente!: 5
+[INFO] 17:47:00:714 Servidor/(18928:18928): Me llegaron los siguientes valores:
+
+[ERROR] 17:47:00:714 Servidor/(18928:18928): el cliente se desconecto. Terminando servidor
+[TRACE] 17:56:34:237 Servidor/(19549:19549): Listo para escuchar a mi cliente
+[INFO] 17:56:34:237 Servidor/(19549:19549): Servidor listo para recibir al cliente
+[INFO] 17:56:52:946 Servidor/(19549:19549): Se conecto un cliente!: 5
+[TRACE] 17:58:44:799 Servidor/(19615:19615): Listo para escuchar a mi cliente
+[INFO] 17:58:44:799 Servidor/(19615:19615): Servidor listo para recibir al cliente
+[INFO] 17:58:59:780 Servidor/(19615:19615): Se conecto un cliente!: 5
+[TRACE] 18:03:40:451 Servidor/(19685:19685): Listo para escuchar a mi cliente
+[INFO] 18:03:40:452 Servidor/(19685:19685): Servidor listo para recibir al cliente
+[INFO] 18:04:09:858 Servidor/(19685:19685): Se conecto un cliente!: 5
+[INFO] 18:04:41:316 Servidor/(19685:19685): Me llegaron los siguientes valores:
+
+[ERROR] 18:04:41:316 Servidor/(19685:19685): el cliente se desconecto. Terminando servidor
+[TRACE] 18:05:37:643 Servidor/(19748:19748): Listo para escuchar a mi cliente
+[INFO] 18:05:37:644 Servidor/(19748:19748): Servidor listo para recibir al cliente
+[INFO] 18:07:54:105 Servidor/(19748:19748): Se conecto un cliente!: 5
+[TRACE] 18:11:14:605 Servidor/(19966:19966): Listo para escuchar a mi cliente
+[INFO] 18:11:14:607 Servidor/(19966:19966): Servidor listo para recibir al cliente
+[TRACE] 18:12:39:345 Servidor/(20039:20039): Listo para escuchar a mi cliente
+[INFO] 18:12:39:346 Servidor/(20039:20039): Servidor listo para recibir al cliente
+[INFO] 18:12:54:640 Servidor/(20039:20039): Se conecto un cliente!: 5
+[TRACE] 18:14:26:7 Servidor/(20091:20091): Listo para escuchar a mi cliente
+[INFO] 18:14:26:8 Servidor/(20091:20091): Servidor listo para recibir al cliente
+[INFO] 18:14:36:904 Servidor/(20091:20091): Se conecto un cliente!: 5
+[TRACE] 18:17:13:188 Servidor/(20204:20204): Listo para escuchar a mi cliente
+[INFO] 18:17:13:188 Servidor/(20204:20204): Servidor listo para recibir al cliente
+[INFO] 18:17:18:899 Servidor/(20204:20204): Se conecto un cliente!: 5
+[INFO] 18:17:18:900 Servidor/(20204:20204): Me llegaron los siguientes valores:
+
+[ERROR] 18:17:18:901 Servidor/(20204:20204): el cliente se desconecto. Terminando servidor
+[TRACE] 18:18:13:960 Servidor/(20245:20245): Listo para escuchar a mi cliente
+[INFO] 18:18:13:961 Servidor/(20245:20245): Servidor listo para recibir al cliente
+[INFO] 18:18:21:750 Servidor/(20245:20245): Se conecto un cliente!: 5
+[INFO] 18:20:05:602 Servidor/(20245:20245): Me llegaron los siguientes valores:
+
+[TRACE] 18:24:03:886 Servidor/(20703:20703): Listo para escuchar a mi cliente
+[INFO] 18:24:03:887 Servidor/(20703:20703): Servidor listo para recibir al cliente
+[INFO] 18:24:10:574 Servidor/(20703:20703): Se conecto un cliente!: 5
+[TRACE] 18:26:58:114 Servidor/(20906:20906): Listo para escuchar a mi cliente
+[INFO] 18:26:58:114 Servidor/(20906:20906): Servidor listo para recibir al cliente
+[TRACE] 17:44:29:233 Servidor/(21582:21582): Listo para escuchar a mi cliente
+[INFO] 17:44:29:233 Servidor/(21582:21582): Servidor listo para recibir al cliente
+[INFO] 17:44:38:563 Servidor/(21582:21582): Se conecto un cliente!: 5
+[INFO] 17:44:38:564 Servidor/(21582:21582): Me llegaron los siguientes valores:
+
+[INFO] 17:44:38:565 Servidor/(21582:21582): 
+
+[INFO] 17:44:38:565 Servidor/(21582:21582): 
+
+[INFO] 17:44:38:565 Servidor/(21582:21582): Hola
+
+[ERROR] 17:44:38:566 Servidor/(21582:21582): el cliente se desconecto. Terminando servidor
+[TRACE] 17:45:31:43 Servidor/(21684:21684): Listo para escuchar a mi cliente
+[INFO] 17:45:31:44 Servidor/(21684:21684): Servidor listo para recibir al cliente
+[INFO] 17:45:40:656 Servidor/(21684:21684): Se conecto un cliente!: 5
+[INFO] 17:45:40:656 Servidor/(21684:21684): Me llegaron los siguientes valores:
+
+[INFO] 17:45:40:657 Servidor/(21684:21684): 
+
+[INFO] 17:45:40:657 Servidor/(21684:21684): Hola
+
+[ERROR] 17:45:40:657 Servidor/(21684:21684): el cliente se desconecto. Terminando servidor
+[TRACE] 17:46:34:56 Servidor/(21714:21714): Listo para escuchar a mi cliente
+[INFO] 17:46:34:57 Servidor/(21714:21714): Servidor listo para recibir al cliente
+[INFO] 17:49:07:777 Servidor/(21714:21714): Se conecto un cliente!: 5
+[INFO] 17:49:07:778 Servidor/(21714:21714): Me llegaron los siguientes valores:
+
+[INFO] 17:49:07:778 Servidor/(21714:21714): sdfsd
+
+[INFO] 17:49:07:779 Servidor/(21714:21714): Hola
+
+[ERROR] 17:49:07:779 Servidor/(21714:21714): el cliente se desconecto. Terminando servidor
+[TRACE] 17:49:59:326 Servidor/(21871:21871): Listo para escuchar a mi cliente
+[INFO] 17:49:59:326 Servidor/(21871:21871): Servidor listo para recibir al cliente
+[INFO] 17:50:06:286 Servidor/(21871:21871): Se conecto un cliente!: 5
+[INFO] 17:50:06:287 Servidor/(21871:21871): Me llegaron los siguientes valores:
+
+[INFO] 17:50:06:288 Servidor/(21871:21871): asdf
+
+[INFO] 17:50:06:288 Servidor/(21871:21871): sad
+
+[INFO] 17:50:06:288 Servidor/(21871:21871): Hola
+
+[ERROR] 17:50:06:288 Servidor/(21871:21871): el cliente se desconecto. Terminando servidor

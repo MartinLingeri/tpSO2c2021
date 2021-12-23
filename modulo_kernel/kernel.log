@@ -1,0 +1,196 @@
+[INFO] 16:31:12:905 kernel/(17640:17640): Iniciando kernel
+[INFO] 16:31:13:014 kernel/(17640:17640): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 16:31:14:394 kernel/(17640:17640): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 16:31:14:398 kernel/(17640:17664): CARPINCHO 1 - Cambia de estado a READY
+[INFO] 16:31:14:398 kernel/(17640:17646): CARPINCHO 1 - Cambia de estado a EXEC
+[INFO] 16:31:14:407 kernel/(17640:17665): CARPINCHO 1 - Cambia de estado a BLOQUEADO
+[INFO] 16:31:14:410 kernel/(17640:17665): CARPINCHO 1 - Utilizando dispositivo PILETA
+[INFO] 16:31:15:391 kernel/(17640:17640): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 16:31:15:397 kernel/(17640:17669): CARPINCHO 2 - Cambia de estado a READY
+[INFO] 16:31:15:400 kernel/(17640:17646): CARPINCHO 2 - Cambia de estado a EXEC
+[INFO] 16:31:15:405 kernel/(17640:17670): CARPINCHO 2 - Cambia de estado a BLOQUEADO
+[INFO] 16:31:15:405 kernel/(17640:17670): CARPINCHO 2 - Esperando semaforo
+[INFO] 16:31:16:390 kernel/(17640:17640): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 16:31:16:400 kernel/(17640:17647): CARPINCHO 2 - Cambia de estado a BLOQUEADO_SUSPENDIDO
+[INFO] 16:31:16:400 kernel/(17640:17647): CARPINCHO 3 - Cambia de estado a READY
+[ERROR] 16:31:16:400 kernel/(17640:17647): Se perdió la conexión a memoria
+[INFO] 16:31:16:401 kernel/(17640:17646): CARPINCHO 3 - Cambia de estado a EXEC
+[INFO] 16:31:16:406 kernel/(17640:17673): CARPINCHO 3 - Cambia de estado a BLOQUEADO
+[INFO] 16:31:16:406 kernel/(17640:17673): CARPINCHO 3 - Esperando semaforo
+[INFO] 16:31:17:390 kernel/(17640:17640): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 16:31:17:397 kernel/(17640:17647): CARPINCHO 3 - Cambia de estado a BLOQUEADO_SUSPENDIDO
+[INFO] 16:31:17:397 kernel/(17640:17647): CARPINCHO 4 - Cambia de estado a READY
+[ERROR] 16:31:17:397 kernel/(17640:17647): Se perdió la conexión a memoria
+[INFO] 16:31:17:399 kernel/(17640:17646): CARPINCHO 4 - Cambia de estado a EXEC
+[INFO] 16:31:17:404 kernel/(17640:17676): CARPINCHO 4 - Cambia de estado a BLOQUEADO
+[INFO] 16:31:17:404 kernel/(17640:17676): CARPINCHO 4 - Esperando semaforo
+[INFO] 16:31:19:410 kernel/(17640:17665): CARPINCHO 1 - Libera dispositivo PILETA
+[INFO] 16:31:19:410 kernel/(17640:17665): CARPINCHO 1 - Cambia de estado a READY
+[INFO] 16:31:19:410 kernel/(17640:17676): CARPINCHO 4 - Termina espera
+[INFO] 16:31:19:410 kernel/(17640:17676): CARPINCHO 4 - Utilizando dispositivo PILETA
+[INFO] 16:31:19:410 kernel/(17640:17646): CARPINCHO 1 - Cambia de estado a EXEC
+[INFO] 16:31:19:414 kernel/(17640:17677): CARPINCHO 1 - Cambia de estado a BLOQUEADO
+[INFO] 16:31:19:415 kernel/(17640:17677): CARPINCHO 1 - Esperando semaforo
+[INFO] 16:31:24:410 kernel/(17640:17676): CARPINCHO 4 - Libera dispositivo PILETA
+[INFO] 16:31:24:411 kernel/(17640:17676): CARPINCHO 4 - Cambia de estado a READY
+[INFO] 16:31:24:411 kernel/(17640:17646): CARPINCHO 4 - Cambia de estado a EXEC
+[INFO] 16:31:24:422 kernel/(17640:17680): CARPINCHO 4 - Cambia de estado a BLOQUEADO
+[INFO] 16:31:24:422 kernel/(17640:17680): CARPINCHO 4 - Utilizando dispositivo PILETA
+[INFO] 16:31:29:423 kernel/(17640:17680): CARPINCHO 4 - Libera dispositivo PILETA
+[INFO] 16:31:29:423 kernel/(17640:17680): CARPINCHO 4 - Cambia de estado a READY
+[INFO] 16:31:29:423 kernel/(17640:17677): CARPINCHO 1 - Termina espera
+[INFO] 16:31:29:424 kernel/(17640:17677): CARPINCHO 1 - Utilizando dispositivo PILETA
+[INFO] 16:31:29:424 kernel/(17640:17646): CARPINCHO 4 - Cambia de estado a EXEC
+[INFO] 16:31:29:430 kernel/(17640:17681): CARPINCHO 4 - Cambia de estado a BLOQUEADO
+[INFO] 16:31:29:430 kernel/(17640:17681): CARPINCHO 4 - Esperando semaforo
+[INFO] 16:31:29:430 kernel/(17640:17681): CARPINCHO 4 - Termina espera
+[INFO] 16:31:29:430 kernel/(17640:17681): CARPINCHO 4 - Utilizando dispositivo PILETA
+[INFO] 16:31:34:424 kernel/(17640:17677): CARPINCHO 1 - Libera dispositivo PILETA
+[INFO] 16:31:34:424 kernel/(17640:17677): CARPINCHO 1 - Cambia de estado a READY
+[INFO] 16:31:34:425 kernel/(17640:17646): CARPINCHO 1 - Cambia de estado a EXEC
+[INFO] 16:31:34:430 kernel/(17640:17682): CARPINCHO 1 - Cambia de estado a BLOQUEADO
+[INFO] 16:31:34:430 kernel/(17640:17682): CARPINCHO 1 - Utilizando dispositivo PILETA
+[INFO] 16:31:34:431 kernel/(17640:17681): CARPINCHO 4 - Libera dispositivo PILETA
+[INFO] 16:31:34:431 kernel/(17640:17681): CARPINCHO 4 - Cambia de estado a READY
+[INFO] 16:31:34:431 kernel/(17640:17646): CARPINCHO 4 - Cambia de estado a EXEC
+[ERROR] 16:31:34:436 kernel/(17640:17683): Se perdió la conexión a memoria
+[INFO] 16:31:34:436 kernel/(17640:17683): CARPINCHO 4 - Cambia de estado a EXIT
+[INFO] 16:31:34:436 kernel/(17640:17683): CARPINCHO 4 - Finalizado. Hasta pronto!
+[INFO] 16:31:39:431 kernel/(17640:17682): CARPINCHO 1 - Libera dispositivo PILETA
+[INFO] 16:31:39:431 kernel/(17640:17682): CARPINCHO 1 - Cambia de estado a READY
+[INFO] 16:31:39:431 kernel/(17640:17670): CARPINCHO 2 - Termina espera
+[INFO] 16:31:39:431 kernel/(17640:17670): CARPINCHO 2 - Utilizando dispositivo PILETA
+[INFO] 16:31:39:431 kernel/(17640:17646): CARPINCHO 1 - Cambia de estado a EXEC
+[ERROR] 16:31:39:437 kernel/(17640:17684): Se perdió la conexión a memoria
+[INFO] 16:31:39:437 kernel/(17640:17684): CARPINCHO 1 - Cambia de estado a EXIT
+[INFO] 16:31:39:437 kernel/(17640:17684): CARPINCHO 1 - Finalizado. Hasta pronto!
+[INFO] 16:31:44:432 kernel/(17640:17670): CARPINCHO 2 - Libera dispositivo PILETA
+[INFO] 16:31:44:432 kernel/(17640:17670): CARPINCHO 2 - Cambia de estado a READY
+[INFO] 16:31:44:434 kernel/(17640:17646): CARPINCHO 2 - Cambia de estado a EXEC
+[INFO] 16:31:44:439 kernel/(17640:17685): CARPINCHO 2 - Cambia de estado a BLOQUEADO
+[INFO] 16:31:44:439 kernel/(17640:17685): CARPINCHO 2 - Utilizando dispositivo PILETA
+[INFO] 16:31:49:439 kernel/(17640:17685): CARPINCHO 2 - Libera dispositivo PILETA
+[INFO] 16:31:49:440 kernel/(17640:17685): CARPINCHO 2 - Cambia de estado a READY
+[INFO] 16:31:49:440 kernel/(17640:17673): CARPINCHO 3 - Termina espera
+[INFO] 16:31:49:440 kernel/(17640:17673): CARPINCHO 3 - Utilizando dispositivo PILETA
+[INFO] 16:31:49:440 kernel/(17640:17646): CARPINCHO 2 - Cambia de estado a EXEC
+[INFO] 16:31:49:445 kernel/(17640:17686): CARPINCHO 2 - Cambia de estado a BLOQUEADO
+[INFO] 16:31:49:445 kernel/(17640:17686): CARPINCHO 2 - Esperando semaforo
+[INFO] 16:31:49:445 kernel/(17640:17686): CARPINCHO 2 - Termina espera
+[INFO] 16:31:49:445 kernel/(17640:17686): CARPINCHO 2 - Utilizando dispositivo PILETA
+[INFO] 16:31:54:440 kernel/(17640:17673): CARPINCHO 3 - Libera dispositivo PILETA
+[INFO] 16:31:54:441 kernel/(17640:17673): CARPINCHO 3 - Cambia de estado a READY
+[INFO] 16:31:54:441 kernel/(17640:17646): CARPINCHO 3 - Cambia de estado a EXEC
+[INFO] 16:31:54:445 kernel/(17640:17687): CARPINCHO 3 - Cambia de estado a BLOQUEADO
+[INFO] 16:31:54:445 kernel/(17640:17687): CARPINCHO 3 - Utilizando dispositivo PILETA
+[INFO] 16:31:54:446 kernel/(17640:17686): CARPINCHO 2 - Libera dispositivo PILETA
+[INFO] 16:31:54:446 kernel/(17640:17686): CARPINCHO 2 - Cambia de estado a READY
+[INFO] 16:31:54:447 kernel/(17640:17646): CARPINCHO 2 - Cambia de estado a EXEC
+[ERROR] 16:31:54:451 kernel/(17640:17688): Se perdió la conexión a memoria
+[INFO] 16:31:54:451 kernel/(17640:17688): CARPINCHO 2 - Cambia de estado a EXIT
+[INFO] 16:31:54:451 kernel/(17640:17688): CARPINCHO 2 - Finalizado. Hasta pronto!
+[INFO] 16:31:59:446 kernel/(17640:17687): CARPINCHO 3 - Libera dispositivo PILETA
+[INFO] 16:31:59:447 kernel/(17640:17687): CARPINCHO 3 - Cambia de estado a READY
+[INFO] 16:31:59:448 kernel/(17640:17646): CARPINCHO 3 - Cambia de estado a EXEC
+[INFO] 16:31:59:453 kernel/(17640:17689): CARPINCHO 3 - Cambia de estado a BLOQUEADO
+[INFO] 16:31:59:453 kernel/(17640:17689): CARPINCHO 3 - Utilizando dispositivo PILETA
+[INFO] 16:32:04:454 kernel/(17640:17689): CARPINCHO 3 - Libera dispositivo PILETA
+[INFO] 16:32:04:454 kernel/(17640:17689): CARPINCHO 3 - Cambia de estado a READY
+[INFO] 16:32:04:456 kernel/(17640:17646): CARPINCHO 3 - Cambia de estado a EXEC
+[ERROR] 16:32:04:461 kernel/(17640:17690): Se perdió la conexión a memoria
+[INFO] 16:32:04:461 kernel/(17640:17690): CARPINCHO 3 - Cambia de estado a EXIT
+[INFO] 16:32:04:461 kernel/(17640:17690): CARPINCHO 3 - Finalizado. Hasta pronto!
+[INFO] 20:36:45:835 kernel/(22480:22480): Iniciando kernel
+[INFO] 20:36:45:884 kernel/(22480:22480): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 20:36:46:778 kernel/(22480:22480): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 20:36:46:787 kernel/(22480:22499): CARPINCHO 1 - Cambia de estado a READY
+[INFO] 20:36:46:787 kernel/(22480:22485): CARPINCHO 1 - Cambia de estado a EXEC
+[INFO] 20:36:46:811 kernel/(22480:22500): CARPINCHO 1 - Se comunica con módulo Memoria
+[INFO] 20:36:46:825 kernel/(22480:22500): CARPINCHO 1 - Realiza operación de memoria
+[INFO] 17:50:08:603 kernel/(15563:15563): Iniciando kernel
+[INFO] 17:50:09:109 kernel/(15563:15563): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 17:53:33:836 kernel/(15677:15677): Iniciando kernel
+[INFO] 17:53:33:849 kernel/(15677:15677): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 17:55:59:839 kernel/(15677:15677): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 17:55:59:931 kernel/(15677:15819): CARPINCHO 1 - Cambia de estado a READY
+[INFO] 17:55:59:986 kernel/(15677:15682): CARPINCHO 1 - Cambia de estado a EXEC
+[INFO] 17:55:59:992 kernel/(15677:15820): CARPINCHO 1 - Se comunica con módulo Memoria
+[INFO] 17:56:00:046 kernel/(15677:15820): CARPINCHO 1 - Realiza operación de memoria
+[INFO] 17:56:00:046 kernel/(15677:15677): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 17:56:00:048 kernel/(15677:15822): CARPINCHO 2 - Cambia de estado a READY
+[INFO] 17:56:00:048 kernel/(15677:15682): CARPINCHO 2 - Cambia de estado a EXEC
+[INFO] 17:56:00:052 kernel/(15677:15823): CARPINCHO 2 - Se comunica con módulo Memoria
+[INFO] 17:56:00:054 kernel/(15677:15823): CARPINCHO 2 - Realiza operación de memoria
+[INFO] 17:56:00:054 kernel/(15677:15677): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 17:56:00:055 kernel/(15677:15825): CARPINCHO 3 - Cambia de estado a READY
+[INFO] 17:56:00:055 kernel/(15677:15682): CARPINCHO 3 - Cambia de estado a EXEC
+[INFO] 17:56:00:059 kernel/(15677:15826): CARPINCHO 3 - Se comunica con módulo Memoria
+[INFO] 17:56:04:175 kernel/(15677:15826): CARPINCHO 3 - Realiza operación de memoria
+[INFO] 18:01:27:753 kernel/(15940:15940): Iniciando kernel
+[INFO] 18:01:27:772 kernel/(15940:15940): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:01:30:199 kernel/(15940:15940): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:01:30:199 kernel/(15940:15964): CARPINCHO 1 - Cambia de estado a READY
+[INFO] 18:01:30:199 kernel/(15940:15945): CARPINCHO 1 - Cambia de estado a EXEC
+[INFO] 18:01:30:221 kernel/(15940:15965): CARPINCHO 1 - Se comunica con módulo Memoria
+[INFO] 18:01:30:223 kernel/(15940:15965): CARPINCHO 1 - Realiza operación de memoria
+[INFO] 18:01:30:223 kernel/(15940:15940): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:01:30:224 kernel/(15940:15967): CARPINCHO 2 - Cambia de estado a READY
+[INFO] 18:01:30:224 kernel/(15940:15945): CARPINCHO 2 - Cambia de estado a EXEC
+[INFO] 18:01:30:228 kernel/(15940:15968): CARPINCHO 2 - Se comunica con módulo Memoria
+[INFO] 18:01:30:230 kernel/(15940:15968): CARPINCHO 2 - Realiza operación de memoria
+[INFO] 18:01:30:231 kernel/(15940:15940): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:01:30:232 kernel/(15940:15970): CARPINCHO 3 - Cambia de estado a READY
+[INFO] 18:01:30:232 kernel/(15940:15945): CARPINCHO 3 - Cambia de estado a EXEC
+[INFO] 18:01:30:236 kernel/(15940:15971): CARPINCHO 3 - Se comunica con módulo Memoria
+[INFO] 18:01:32:465 kernel/(15940:15971): CARPINCHO 3 - Realiza operación de memoria
+[INFO] 18:08:08:963 kernel/(16111:16111): Iniciando kernel
+[INFO] 18:08:08:992 kernel/(16111:16111): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:08:10:794 kernel/(16111:16111): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:08:10:892 kernel/(16111:16135): CARPINCHO 1 - Cambia de estado a READY
+[INFO] 18:08:10:892 kernel/(16111:16112): CARPINCHO 1 - Cambia de estado a EXEC
+[INFO] 18:08:10:913 kernel/(16111:16136): CARPINCHO 1 - Se comunica con módulo Memoria
+[INFO] 18:08:10:915 kernel/(16111:16136): CARPINCHO 1 - Realiza operación de memoria
+[INFO] 18:08:10:916 kernel/(16111:16111): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:08:10:917 kernel/(16111:16138): CARPINCHO 2 - Cambia de estado a READY
+[INFO] 18:08:10:917 kernel/(16111:16112): CARPINCHO 2 - Cambia de estado a EXEC
+[INFO] 18:08:10:921 kernel/(16111:16139): CARPINCHO 2 - Se comunica con módulo Memoria
+[INFO] 18:08:10:923 kernel/(16111:16139): CARPINCHO 2 - Realiza operación de memoria
+[INFO] 18:08:10:923 kernel/(16111:16111): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:08:10:924 kernel/(16111:16141): CARPINCHO 3 - Cambia de estado a READY
+[INFO] 18:08:10:924 kernel/(16111:16112): CARPINCHO 3 - Cambia de estado a EXEC
+[INFO] 18:08:10:935 kernel/(16111:16142): CARPINCHO 3 - Se comunica con módulo Memoria
+[INFO] 18:08:13:833 kernel/(16111:16142): CARPINCHO 3 - Realiza operación de memoria
+[INFO] 18:23:29:018 kernel/(3963:3963): Iniciando kernel
+[INFO] 18:23:29:030 kernel/(3963:3963): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:23:31:097 kernel/(3963:3963): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:23:31:102 kernel/(3963:4001): CARPINCHO 1 - Cambia de estado a READY
+[INFO] 18:23:31:103 kernel/(3963:3968): CARPINCHO 1 - Cambia de estado a EXEC
+[INFO] 18:23:31:115 kernel/(3963:4002): CARPINCHO 1 - Se comunica con módulo Memoria
+[INFO] 18:23:31:135 kernel/(3963:4002): CARPINCHO 1 - Realiza operación de memoria
+[INFO] 18:23:31:135 kernel/(3963:3963): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:23:31:140 kernel/(3963:4004): CARPINCHO 2 - Cambia de estado a READY
+[INFO] 18:23:31:141 kernel/(3963:3968): CARPINCHO 2 - Cambia de estado a EXEC
+[INFO] 18:23:31:149 kernel/(3963:4005): CARPINCHO 2 - Se comunica con módulo Memoria
+[INFO] 18:23:31:160 kernel/(3963:4005): CARPINCHO 2 - Realiza operación de memoria
+[INFO] 18:23:31:160 kernel/(3963:3963): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:23:31:165 kernel/(3963:4007): CARPINCHO 3 - Cambia de estado a READY
+[INFO] 18:23:31:167 kernel/(3963:3968): CARPINCHO 3 - Cambia de estado a EXEC
+[INFO] 18:23:31:177 kernel/(3963:4008): CARPINCHO 3 - Se comunica con módulo Memoria
+[INFO] 18:23:31:981 kernel/(3963:4008): CARPINCHO 3 - Realiza operación de memoria
+[INFO] 18:29:51:378 kernel/(4207:4207): Iniciando kernel
+[INFO] 18:29:51:382 kernel/(4207:4207): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:29:53:686 kernel/(4207:4207): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:29:53:686 kernel/(4207:4230): CARPINCHO 1 - Cambia de estado a READY
+[INFO] 18:29:53:686 kernel/(4207:4212): CARPINCHO 1 - Cambia de estado a EXEC
+[INFO] 18:29:53:696 kernel/(4207:4231): CARPINCHO 1 - Se comunica con módulo Memoria
+[INFO] 18:29:53:703 kernel/(4207:4231): CARPINCHO 1 - Realiza operación de memoria
+[INFO] 18:29:53:704 kernel/(4207:4207): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:29:53:706 kernel/(4207:4233): CARPINCHO 2 - Cambia de estado a READY
+[INFO] 18:29:53:706 kernel/(4207:4212): CARPINCHO 2 - Cambia de estado a EXEC
+[INFO] 18:29:53:710 kernel/(4207:4234): CARPINCHO 2 - Se comunica con módulo Memoria
+[INFO] 18:29:53:720 kernel/(4207:4234): CARPINCHO 2 - Realiza operación de memoria
+[INFO] 18:29:53:720 kernel/(4207:4207): KERNEL LISTO PARA RECIBIR PETICIONES
+[INFO] 18:29:53:723 kernel/(4207:4236): CARPINCHO 3 - Cambia de estado a READY
+[INFO] 18:29:53:723 kernel/(4207:4212): CARPINCHO 3 - Cambia de estado a EXEC
+[INFO] 18:29:53:728 kernel/(4207:4237): CARPINCHO 3 - Se comunica con módulo Memoria
+[INFO] 18:29:54:643 kernel/(4207:4237): CARPINCHO 3 - Realiza operación de memoria
